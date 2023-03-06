@@ -1,0 +1,3 @@
+[submodule "NativeJIT"]
+	path = NativeJIT
+	url = git@github.com:BitFunnel/NativeJIT.git
